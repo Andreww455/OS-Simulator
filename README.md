@@ -6,7 +6,7 @@ A Java-based simulation of a real operating system. The simulator models core OS
 
 ## 📸 Screenshot
 
-![OS Simulator GUI](screenshots/gui.png)
+![OS Simulator GUI](screenshots/OS%20Simulator%20GUI)
 *Round Robin scheduling at T=37 — execution log, mutex states, memory view, and process queues*
 
 ---
